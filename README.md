@@ -5,8 +5,8 @@ Note: This project was developed as part of a learning-based internship using on
 This repository contains all the tasks completed by me as part of the Oasis Infobyte Web Development Internship. 
 Each task was developed individually to practice frontend development concepts.
 
-### Intern Name : Sreelakshmi B R
-### Domain : Web Development
+### Intern Name : Sreelekshmi B R
+### Domain : Web Development and Designing
 
 ## Task 1: Landing Page
 **Objective:**  
